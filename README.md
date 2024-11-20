@@ -7,6 +7,7 @@ To design and implement a 1-bit full adder circuit using Cadence EDA tools and t
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+![image](https://github.com/user-attachments/assets/d29f6ab6-3b29-470e-a833-7aae0f8edf25)
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
@@ -48,7 +49,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
+![image](https://github.com/user-attachments/assets/b13327e6-90b0-4773-ae13-c7cc1314b0c3)
 
 
  
@@ -66,7 +67,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+![image](https://github.com/user-attachments/assets/064d2a89-8715-41ea-a209-7ff63fb7cf18)
 
 
 
@@ -81,7 +82,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![image](https://github.com/user-attachments/assets/a020a62b-6c36-410d-9f5c-7146ae65d318)
 
  
 Analog simulation by SPECTRE.
@@ -94,13 +95,14 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0033](https://github.com/user-attachments/assets/3f603cf1-7394-4561-ae07-fbe55615e8be)
+![image](https://github.com/user-attachments/assets/23abafb6-c763-4c25-a515-ca1bd227e5cc)
 
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+![image](https://github.com/user-attachments/assets/fe3e0eba-bf59-4bed-bc8b-b30ee5170b00)
 
+![image](https://github.com/user-attachments/assets/7bc435d9-6022-4235-b3c2-58e1f4ebcd46)
 
  
 
